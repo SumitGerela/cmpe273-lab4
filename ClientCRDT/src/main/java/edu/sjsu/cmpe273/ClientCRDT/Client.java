@@ -22,12 +22,12 @@ public class Client {
         	} 
         	else 
         	{
-            	System.out.println("Second write failed...");
+            	System.out.println("2nd write failed!");
         	}
         } 
         else 
         {
-        	System.out.println("First write failed...");
+        	System.out.println("1st write failed");
         }	
      
         System.out.println("Existing Cache Client...");  
